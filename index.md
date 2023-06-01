@@ -1,4 +1,4 @@
-# Title 
+# Handling Jars 
 *David Michalove, 5/30/2023*
 *Course Name: IT FDN 110 A Sp 23: Foundations Of Programming: Python*
 *Assignment: Assignment07*
